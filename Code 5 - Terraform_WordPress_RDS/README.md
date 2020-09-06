@@ -2,8 +2,7 @@
 
 You can find a detailed article on the same here =>
 
-https://medium.com/@daksh.jain00/public-wordpress-and-private-database-on-aws-ec2-3b65c93b756a
-
+https://medium.com/@daksh.jain00/wordpress-deployed-via-minikube-data-stored-in-aws-rds-28eb89ff9cb7
 ## USAGE
 ```
 terraform apply
